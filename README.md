@@ -1,4 +1,4 @@
-# wifi-cracker
+
 # SXR Wifi-Cracker
 
 
