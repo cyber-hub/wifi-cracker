@@ -50,7 +50,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 ```bash
 1) sudo apt-get update && apt-get install git
-2) sudo git clone https://github.com/sxrworld/wifi-cracker.git
+2) sudo git clone https://github.com/rasheed0x/wifi-cracker.git
 3) cd wifi-cracker
 4) sudo python3 sxrwc.py
 ```
@@ -58,7 +58,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 ## Creator
 Hey, Dont Forget To say Thanks me :smile:
 # Feel Free To Contact Me.
-### <a href="https://www.github.com/rasheedsiam/">Github</a>
+### <a href="https://www.github.com/rasheed0x/">Github</a>
 ### <a href="https://www.facebook.com/aalrasheedsiam" rel="nofollow">Facebook</a>
 # Disclaimer 
 
